@@ -1,10 +1,6 @@
-simg2img_win
+Samsung Android Firmware IMGs Utils
 ============
 
-simg2img for windows users
+Tool to easily convert/extract Samsung fws IMGs (cache, system, vendor etc) for Windows. Supports also new [lz4](https://github.com/lz4/lz4) format used in Oreo tars.
 
-This is a simple tool for android romer to convert simg to ext4.img.
-
-Put your system.img file into the directory and run convert.bat, wait it finish and you would get system.ext4.img which could be read by ext2explore.
-
-Tested with Samsung GT-I9502.
+Just put your imgs in the root directory, run the .bat related to that img, and wait for the conversion.
